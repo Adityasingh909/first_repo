@@ -1,5 +1,8 @@
 # first_repo
-This is my first repo 
+
+<H3>Author :- Aditya Singh
+</H3>
 <br>
-<H1>Author :- Aditya Singh
-</H1>
+This is my first repo 
+
+
